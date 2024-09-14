@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
  <Br>
- <table color(to right, red, blue)>
+ <table>
   <tr>
    <td align="center" width="96">
       <a href="#">
