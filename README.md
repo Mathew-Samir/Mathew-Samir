@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mathew Samir</h1> <h3 align="center">Junior Software Engineer</h3>                                                    
 
 :page_with_curl: CV(https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link)                                                          
-
+<img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="400"  alt="Coding" />
                                                                                                                                                                          
- <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/mathew-samir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-fady/" height="30" width="40" /></a> </p>
+ <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/mathew-samir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathew-samir/" align="right" height="30" width="40" /></a> </p>
  
 ### Languages and Tools:
 
