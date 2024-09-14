@@ -71,31 +71,35 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
       </a>
       <br>VScode
- 
+    </td>
+         <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" height="48" alt="MS SQL Server" />
+      </a>
+      <br>SQLServer
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
       </a>
       <br>Terminal
     </td>
- 
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-     <td align="center"  width="96">
+      <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
       </a>
       <br>npm
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Figma
-    </td>
 </table>
 
