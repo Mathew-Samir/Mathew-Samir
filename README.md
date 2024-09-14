@@ -84,12 +84,14 @@
       </a>
       <br>Terminal
     </td>
+     <!--
     <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
     </td>
+     -->
     <td align="center" width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
