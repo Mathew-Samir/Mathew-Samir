@@ -62,7 +62,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" width="68" height="12" alt="TailwindCSS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" width="68" height="11" alt="TailwindCSS" />
       </a>
       <br>Axios
     </td>
