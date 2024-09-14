@@ -1,3 +1,5 @@
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231205165904/web-development-image.webp" width="600" align="center"  alt="Coding" />
+
 <h1 align="center">Hi 👋, I'm Mathew Samir</h1> <h3 align="center">Junior Software Engineer</h3>                                                    
 
 :page_with_curl: CV(https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link)                                                          
