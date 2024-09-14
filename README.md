@@ -105,10 +105,10 @@
       <br>npm
 </table>
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathew-samir&show_icons=true&locale=en&layout=compact" alt="mathew-samir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathew-samir&show_icons=true&locale=en" alt="mathew-samir" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathew-samir&" alt="mathew-samir" /></p>
 
