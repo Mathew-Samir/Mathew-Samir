@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
  <Br>
- <table linear-gradient(to right, red, blue)>
+ <table color(to right, red, blue)>
   <tr>
    <td align="center" width="96">
       <a href="#">
