@@ -1,4 +1,4 @@
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231205165904/web-development-image.webp" width="800" height="230" align="center"  alt="Coding" />
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231205165904/web-development-image.webp" width="830" height="250" align="center"  alt="Coding" />
 
 <h1 align="center">Hi 👋, I'm Mathew Samir</h1> <h3 align="center">Junior Software Engineer</h3>                                                    
 
