@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mathew-samir/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link](https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link)
+- 📄 CV [https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link](https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
