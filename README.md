@@ -129,7 +129,7 @@
       </td>
       <td align="center" width="96">
         <a href="#">
-          <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="48" height="48" alt="Vite" />
+          <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="48" height="48" alt="Vite" />
         </a>
         <br>Firebase
       </td>
