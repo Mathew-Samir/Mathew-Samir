@@ -108,7 +108,7 @@
     </td>
      <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="48" height="48" alt="Git" />
+        <img src="" width="48" height="48" alt="Git" />
       </a>
       <br>Vite
     </td>
