@@ -123,7 +123,7 @@
       </td>
       <td align="center" width="96">
         <a href="#">
-          <img src="https://your-favicon-path/vite-logo.svg" width="48" height="48" alt="Vite" />
+          <img src="https://www.svgrepo.com/show/374167/vite.svg" width="48" height="48" alt="Vite" />
         </a>
         <br>Vite
       </td>
