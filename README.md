@@ -1,4 +1,4 @@
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231205165904/web-development-image.webp" width="830" height="250" align="center"  alt="Coding" />
+![image](https://github.com/user-attachments/assets/2cc22b98-2593-4a7d-b5d9-3508ac6bd55c)<img src="https://media.geeksforgeeks.org/wp-content/uploads/20231205165904/web-development-image.webp" width="830" height="250" align="center"  alt="Coding" />
 
 <h1 align="center">Hi 👋, I'm Mathew Samir</h1> <h3 align="center">Junior Software Engineer</h3>                                                    
 
@@ -99,6 +99,18 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>npm
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://commons.wikimedia.org/wiki/File:Vitejs-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Vite
     </td>
       <td align="center"  width="96">
       <a href="#">
