@@ -19,6 +19,7 @@
 
   <!-- رابط للسيرة الذاتية -->
   <p>📄 CV: 
+    https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link
     <a href="https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link" target="_blank">View CV</a>
   </p>
 
