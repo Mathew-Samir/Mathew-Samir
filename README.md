@@ -20,7 +20,6 @@
   <!-- رابط للسيرة الذاتية -->
   <p>📄 CV: 
     https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link
-    <a href="https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link" target="_blank">View CV</a>
   </p>
 
   <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="200" align="right" alt="Coding" />
