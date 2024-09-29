@@ -132,7 +132,7 @@
         </a>
         <br>Firebase
       </td>
-    </tr>
+    
   </table>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathew-samir&" alt="mathew-samir" /></p>
