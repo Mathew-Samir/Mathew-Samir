@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   
   
-  <!-- إضافة الفافيكون المخصص -->
+  
   <link rel="icon" href="/path-to-your-favicon/favicon.ico" />
 
 </head>
@@ -17,8 +17,8 @@
   <h1 align="center">Hi 👋, I'm Mathew Samir</h1> 
   <h3 align="center">Junior Software Engineer</h3>
 
-  <!-- رابط للسيرة الذاتية -->
-  <p>📄 CV: 
+  
+  <p>📄 <b>CV:</b> 
     https://drive.google.com/file/d/1-7W45bVIqqYbK1I8APMnCFN-AcIKwhiv/view?usp=drive_link
   </p>
 
