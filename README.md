@@ -79,9 +79,9 @@
       </td>
       <td align="center" width="96">
         <a href="#">
-          <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+          <img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="48" height="48" alt="Redux" />
         </a>
-        <br>Redux
+        <br>Material Ui
       </td>
       <td align="center" width="96">
         <a href="#">
