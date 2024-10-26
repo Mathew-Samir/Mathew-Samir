@@ -81,7 +81,7 @@
         <a href="#">
           <img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="48" height="48" alt="Redux" />
         </a>
-        <br>Material Ui
+        <br>MUI
       </td>
       <td align="center" width="96">
         <a href="#">
