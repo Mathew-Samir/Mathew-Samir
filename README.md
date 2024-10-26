@@ -83,12 +83,6 @@
         </a>
         <br>MUI
       </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fstyled-components%2Fstyled-components&psig=AOvVaw2DgNwXxPy4y1cGXLYysbyy&ust=1730040305218000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi_tcKkrIkDFQAAAAAdAAAAABAE" width="68" height="10" alt="Axios" />
-        </a>
-        <br>Axios
-      </td>
     </tr>
         <tr>
       <td align="center" width="96">
