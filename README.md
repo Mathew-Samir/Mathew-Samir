@@ -33,7 +33,7 @@
 
   <h3>Languages and Tools:</h3>
 
-  <table>
+  <table style="border: none">
     <tr>
       <td align="center" width="96">
         <a href="#">
