@@ -71,20 +71,14 @@
         </a>
         <br>Tailwind
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
         </a>
         <br>ReactJS
       </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="48" height="48" alt="Redux" />
-        </a>
-        <br>MUI
-      </td>
-    </tr>
-        <tr>
       <td align="center" width="96">
         <a href="#">
           <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="48" height="48" alt="React Router" />
@@ -102,6 +96,12 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg" width="68" height="10" alt="Axios" />
         </a>
         <br>Axios
+      </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://www.svgrepo.com/show/354048/material-ui.svg" width="48" height="48" alt="Redux" />
+        </a>
+        <br>MUI
       </td>
     </tr>
       <td align="center" width="96">
