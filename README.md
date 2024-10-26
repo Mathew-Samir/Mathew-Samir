@@ -55,11 +55,17 @@
       </td>
       <td align="center" width="96">
         <a href="#">
+          <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="52" height="48" alt="Bootstrap" />
+        </a>
+        <br>Typescript
+      </td>
+      <td align="center" width="96">
+        <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="52" height="48" alt="Bootstrap" />
         </a>
         <br>Bootstrap
       </td>
-      <td align="center" width="96">
+     <td align="center" width="96">
         <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind" />
         </a>
@@ -70,12 +76,6 @@
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
         </a>
         <br>ReactJS
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="48" height="48" alt="React Router" />
-        </a>
-        <br>React Router
       </td>
       <td align="center" width="96">
         <a href="#">
