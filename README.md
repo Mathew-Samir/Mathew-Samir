@@ -71,6 +71,12 @@
         </a>
         <br>Tailwind
       </td>
+      <td align="center" width="96">
+        <a href="#">
+          <img src="https://www.svgrepo.com/show/306811/styled-components.svg" width="48" height="48" alt="Tailwind" />
+        </a>
+        <br>Styled Components
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
