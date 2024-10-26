@@ -73,7 +73,7 @@
       </td>
       <td align="center" width="96">
         <a href="#">
-          <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" width="48" height="48" alt="Tailwind" />
+          <img src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg" width="88" height="88" alt="Tailwind" />
         </a>
         <br>
       </td>
