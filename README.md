@@ -19,7 +19,7 @@
 
   
   <p>📄 <b>CV:</b> 
-    https://drive.google.com/file/d/1NkPJtpWvOXWwCRlLgVli_YkbU_GwFhYp/view?usp=drive_link
+    https://drive.google.com/drive/folders/1PV4bUeMPlu4517XtYKTFNAhn63ZAvQK1?usp=drive_link
   </p>
 
   <img src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif" width="200" align="right" alt="Coding" />
